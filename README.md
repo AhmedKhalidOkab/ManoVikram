@@ -16,7 +16,7 @@
 <a href="https://twitter.com/manovik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manovik18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mano-vikram-1398a11b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mano-vikram-1398a11b6" height="30" width="40" /></a>
 <a href="https://instagram.com/themanovik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themanovik18" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjoy8guz3fszqbp2gepb_aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjoy8guz3fszqbp2gepb_aa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucjoy8guz3fszqbp2gepb_aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjoy8guz3fszqbp2gepb_aa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
